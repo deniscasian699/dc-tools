@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies (if any)
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
