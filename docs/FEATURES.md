@@ -1,45 +1,40 @@
-# Frequently Asked Questions
+# DC Tools Features
 
-## General
+## Core Features
 
-### Is DC Tools really free?
-Yes! All tools are free to use in your browser. Premium features are available for €4.99/month.
+### 🔒 Privacy-First Design
+Every tool in DC Tools processes data entirely in your browser. We never upload, store, or transmit your files to any server.
 
-### Do you store my files?
-No. All processing happens in your browser. Your files never leave your device.
+### ⚡ Instant Processing
+No waiting for server responses. All operations happen locally, making DC Tools incredibly fast.
 
-### Does it work offline?
-The PWA version works offline with cached tools. Some tools requiring external APIs need internet.
-
-## Premium
-
-### What do I get with Premium?
-- Ad-free experience
-- Split-screen mode
+### 📱 Progressive Web App
+Install DC Tools on your device for:
 - Offline access
-- Priority support
-- Early access to new tools
+- Native app experience
+- Push notifications (optional)
+- Split-screen mode (Premium)
 
-### Can I cancel anytime?
-Yes, you can cancel your subscription at any time through Gumroad.
+### 🎨 Customization
+- Multiple color themes
+- Font options (Sans, Mono, Serif)
+- Adjustable text size
+- Compact mode
+- Glass opacity settings
 
-### How many devices can I use?
-Default is 3 devices. Contact support if you need more.
+### ⌨️ Keyboard Navigation
+Full keyboard support for power users with shortcuts for common actions.
 
-## Technical
+### 🌐 No Account Required
+Use all tools without signing up. Your work is stored locally in your browser.
 
-### Which browsers are supported?
-- Chrome 80+
-- Firefox 75+
-- Safari 14+
-- Edge 80+
+## Premium Features
 
-### Is there an API?
-Not currently. All tools are designed for direct browser use.
+Premium subscribers get additional benefits:
+- **Ad-free experience** - No distractions
+- **Split-screen mode** - Use two tools simultaneously
+- **Offline access** - Full functionality without internet
+- **Priority support** - Get help faster
+- **Early access** - Try new tools first
 
-### I found a bug. Where do I report it?
-Please report bugs at [bugs.deniscasian.com](https://bugs.deniscasian.com)
-
-## Contact
-
-Have more questions? Reach out at [contact.deniscasian.com](https://contact.deniscasian.com)
+[Get Premium](https://deniscasian69.gumroad.com/l/dctools-premium)
