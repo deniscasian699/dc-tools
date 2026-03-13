@@ -346,7 +346,7 @@ DC Tools is available as a PWA with premium features:
 - ✅ **Faster performance**
 - ✅ **Priority support**
 
-[🛒 **Get Premium**](https://deniscasian69.gumroad.com/l/dctools-premium)
+[🛒 **Get Premium**](https://courses.deniscasian.com/b/tools)
 
 ---
 
@@ -420,7 +420,7 @@ If you find DC Tools useful, consider:
 - ⭐ **Starring** this repository
 - 📢 **Sharing** with friends and colleagues
 - 💬 **Requesting** new tools at [qa.deniscasian.com](https://qa.deniscasian.com)
-- 👑 **Going Premium** at [Gumroad](https://deniscasian69.gumroad.com/l/dctools-premium)
+- 👑 **Going Premium** at [PayHip](https://courses.deniscasian.com/b/tools)
 
 ---
 
