@@ -338,7 +338,7 @@ DC Tools is available as a PWA with premium features:
 - ✅ Basic features
 - ⚠️ Ads supported
 
-### Premium (PWA) - €4.99/month
+### Premium (PWA) - €4.99/One Time Purchase
 - ✅ All 200+ tools
 - ✅ **Ad-free experience**
 - ✅ **Split-screen mode**
